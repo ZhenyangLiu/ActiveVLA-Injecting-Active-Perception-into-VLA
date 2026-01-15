@@ -9,7 +9,7 @@
 
 <sup>*</sup>Corresponding Author, <sup>†</sup>Co-corresponding Authors
 
-[![Paper](https://img.shields.io/badge/Paper-Arxiv-b31b1b.svg)](https://arxiv.org/abs/2507.01424)
+[![Paper](https://img.shields.io/badge/Paper-Arxiv-b31b1b.svg)](https://arxiv.org/abs/2601.08325v1)
 [![Project Page](https://img.shields.io/badge/Project-Website-blue.svg)](https://zhenyangliu.github.io/ActiveVLA)
 [![Video](https://img.shields.io/badge/Video-YouTube-red.svg)](https://zhenyangliu.github.io/ActiveVLA)
 
