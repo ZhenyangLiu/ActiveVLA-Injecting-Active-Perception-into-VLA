@@ -10,7 +10,7 @@
 <sup>*</sup>Corresponding Author, <sup>†</sup>Co-corresponding Authors
 
 [![Paper](https://img.shields.io/badge/Paper-Arxiv-b31b1b.svg)](https://arxiv.org/abs/2601.08325v1)
-[![Project Page](https://img.shields.io/badge/Project-Website-blue.svg)](https://zhenyangliu.github.io/ActiveVLA)
+[![Project Page](https://img.shields.io/badge/Project-Website-blue.svg)](https://zhenyangliu.github.io/ActiveVLA/)
 [![Video](https://img.shields.io/badge/Video-YouTube-red.svg)](https://zhenyangliu.github.io/ActiveVLA)
 
 </div>
@@ -39,7 +39,7 @@ We propose **ActiveVLA**, a novel vision-language-action framework that explicit
 By dynamically refining its perceptual input, ActiveVLA achieves superior adaptability and performance in complex scenarios. Experiments show that ActiveVLA outperforms state-of-the-art baselines on **RLBench**, **COLOSSEUM**, and **GemBench**, and transfers seamlessly to real-world robots.
 
 <div align="center">
-  <img src="assets/figure1.png" width="90%">
+  <img src="assets/teaser.png" width="90%">
   <br>
   <em>Figure 1: Comparison between previous VLA methods and ActiveVLA. While traditional VLAs fail due to fixed cameras and occlusion (left), ActiveVLA leverages 3D scene understanding to actively select better views and observe more carefully (right).</em>
 </div>
@@ -57,7 +57,7 @@ The pipeline consists of two main stages:
     *   **Active 3D Zoom-in:** Applies a virtual optical zoom effect to improve resolution in key areas for precise manipulation.
 
 <div align="center">
-  <img src="assets/figure2.png" width="100%">
+  <img src="assets/pipeline.png" width="100%">
   <br>
   <em>Figure 2: The pipeline of ActiveVLA. It adopts a two-stage strategy involving coarse heatmap prediction followed by active view selection and 3D zoom-in to generate the final 3D action.</em>
 </div>
@@ -82,9 +82,12 @@ ActiveVLA achieves state-of-the-art performance across multiple benchmarks:
 If you find our work useful in your research, please consider citing:
 
 ```bibtex
-@article{liu2025activevla,
-  title={ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation},
-  author={Liu, Zhenyang and Gu, Yongchong and Wang, Yikai and Xue, Xiangyang and Fu, Yanwei},
-  journal={arXiv preprint arXiv:2507.01424},
-  year={2025}
+@misc{liu2026activevlainjectingactiveperception,
+      title={ActiveVLA: Injecting Active Perception into Vision-Language-Action Models for Precise 3D Robotic Manipulation}, 
+      author={Zhenyang Liu and Yongchong Gu and Yikai Wang and Xiangyang Xue and Yanwei Fu},
+      year={2026},
+      eprint={2601.08325},
+      archivePrefix={arXiv},
+      primaryClass={cs.RO},
+      url={https://arxiv.org/abs/2601.08325}, 
 }
