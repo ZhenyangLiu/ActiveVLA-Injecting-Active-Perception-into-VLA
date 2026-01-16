@@ -2,12 +2,12 @@
 
 <div align="center">
 
-**Zhenyang Liu**<sup>1,2</sup>, **Yongchong Gu**<sup>1</sup>, **Yikai Wang**<sup>3,*</sup>,  
+**Zhenyang Liu**<sup>1,2</sup>, **Yongchong Gu**<sup>1</sup>, **Yikai Wang**<sup>3,  
 **Xiangyang Xue**<sup>1,†</sup>, **Yanwei Fu**<sup>1,2,†</sup>
 
 <sup>1</sup>Fudan University, <sup>2</sup>Shanghai Innovation Institute, <sup>3</sup>Nanyang Technological University
 
-<sup>*</sup>Corresponding Author, <sup>†</sup>Co-corresponding Authors
+<sup>†</sup>Corresponding Authors
 
 [![Paper](https://img.shields.io/badge/Paper-Arxiv-b31b1b.svg)](https://arxiv.org/abs/2601.08325v1)
 [![Project Page](https://img.shields.io/badge/Project-Website-blue.svg)](https://zhenyangliu.github.io/ActiveVLA/)
