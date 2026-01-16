@@ -2,7 +2,8 @@
 
 <div align="center">
 
-**Zhenyang Liu**<sup>1,2</sup>, **Yongchong Gu**<sup>1</sup>, **Yikai Wang**<sup>3,  
+**Zhenyang Liu**<sup>1,2</sup>, **Yongchong Gu**<sup>1</sup>, **Yikai Wang**<sup>3, 
+
 **Xiangyang Xue**<sup>1,†</sup>, **Yanwei Fu**<sup>1,2,†</sup>
 
 <sup>1</sup>Fudan University, <sup>2</sup>Shanghai Innovation Institute, <sup>3</sup>Nanyang Technological University
